@@ -1,4 +1,4 @@
-# Object_Detection
+# Angle Regression
 ## 一、模型介绍
 基于Resnet的角度回归模型
 
